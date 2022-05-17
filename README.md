@@ -1,7 +1,7 @@
 -  Hi, I’m @NeutronCreeper!
 -  I’m interested in MINECRAFT!~
 -  I’m currently learning cpp.
--  I’m looking to collaborate on ...
+-  I’m looking to collaborate on ... mining diamonds?
 -  How to reach me (wechat)SJk-james-chaos
 
 <!---
